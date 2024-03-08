@@ -1,4 +1,3 @@
-||*^$client=192.168.1.207
 ||android.apis.google.com^$important
 ||api.svt.se^$client='192.168.2.20'
 ||checkipv6.synology.com^$important
